@@ -13,7 +13,7 @@ ce package est sans risque pour les sites qui n'en ont pas besoin.
 ## Installation
 
 ```bash
-uv add --editable ../../packages/sites-conformes-header-logo
+uv add sites-conformes-header-logo
 ```
 
 Ce package surcharge `sites_conformes_core/blocks/header.html`, que le
